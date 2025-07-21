@@ -1,0 +1,108 @@
+C:\Users\42591570\Desktop\Project1\bin\Debug\Project1.exe.config
+C:\Users\42591570\Desktop\Project1\bin\Debug\Project1.exe
+C:\Users\42591570\Desktop\Project1\bin\Debug\Project1.pdb
+C:\Users\42591570\Desktop\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\42591570\Desktop\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\42591570\Desktop\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\42591570\Desktop\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\42591570\Desktop\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\42591570\Desktop\Project1\obj\Debug\Project1.exe
+C:\Users\42591570\Desktop\Project1\obj\Debug\Project1.pdb
+C:\Users\42591570\Desktop\Project1\obj\Debug\Project1.Cart.resources
+C:\Users\42591570\Desktop\Project1\obj\Debug\Project1.Drinks.resources
+C:\Users\42591570\Desktop\Project1\obj\Debug\Project1.Food.resources
+C:\Users\42591570\Desktop\Project1\obj\Debug\Project1.Receipt.resources
+C:\Users\42591570\Desktop\Pro\Pro\Project1\bin\Debug\Project1.exe.config
+C:\Users\42591570\Desktop\Pro\Pro\Project1\bin\Debug\Project1.exe
+C:\Users\42591570\Desktop\Pro\Pro\Project1\bin\Debug\Project1.pdb
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.Cart.resources
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.Drinks.resources
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.Food.resources
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.Receipt.resources
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.exe
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.pdb
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.Staff.resources
+C:\Users\42591570\Desktop\Pro\Pro\Project1\obj\Debug\Project1.Stock.resources
+C:\Users\42591570\Desktop\Pro\Pro\Project1\bin\Debug\BeelteCafDB.mdf
+C:\Users\42591570\Desktop\Pro\Pro\Project1\bin\Debug\BeelteCafDB_log.ldf
+C:\Users\42591570\Desktop\Pro\Project1\bin\Debug\BeelteCafDB.mdf
+C:\Users\42591570\Desktop\Pro\Project1\bin\Debug\BeelteCafDB_log.ldf
+C:\Users\42591570\Desktop\Pro\Project1\bin\Debug\Project1.exe.config
+C:\Users\42591570\Desktop\Pro\Project1\bin\Debug\Project1.exe
+C:\Users\42591570\Desktop\Pro\Project1\bin\Debug\Project1.pdb
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.Cart.resources
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.Drinks.resources
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.Food.resources
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.Receipt.resources
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.Staff.resources
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.Stock.resources
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.exe
+C:\Users\42591570\Desktop\Pro\Project1\obj\Debug\Project1.pdb
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\bin\Debug\BeelteCafDB.mdf
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\bin\Debug\BeelteCafDB_log.ldf
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\bin\Debug\Project1.exe.config
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\bin\Debug\Project1.exe
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\bin\Debug\Project1.pdb
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Cart.resources
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Drinks.resources
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Food.resources
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Receipt.resources
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Staff.resources
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Stock.resources
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.exe
+C:\Users\User\Documents\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.pdb
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\bin\Debug\BeelteCafDB.mdf
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\bin\Debug\BeelteCafDB_log.ldf
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\bin\Debug\Project1.exe.config
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\bin\Debug\Project1.exe
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\bin\Debug\Project1.pdb
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Cart.resources
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Customer.resources
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Drinks.resources
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Food.resources
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Home.resources
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Receipt.resources
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Staff.resources
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.Stock.resources
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.exe
+C:\Users\tiise\Desktop\Project1_CoffeeShop\Project1_42591570_42579759\Project1_42591570_42579759\Project1\obj\Debug\Project1.pdb
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\bin\Debug\BeelteCafDB.mdf
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\bin\Debug\BeelteCafDB_log.ldf
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\bin\Debug\Project1.exe.config
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\bin\Debug\Project1.exe
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\bin\Debug\Project1.pdb
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.Cart.resources
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.Customer.resources
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.Drinks.resources
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.Food.resources
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.Home.resources
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.Receipt.resources
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.Staff.resources
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.Stock.resources
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.exe
+C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.pdb
