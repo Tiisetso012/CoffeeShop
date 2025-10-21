@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caffex Coffee Shop</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo">
+                <h2>☕ Caffex</h2>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <li><a href="#" class="login-btn">Staff Login</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Welcome to Caffex Coffee</h1>
+            <p>Experience the finest coffee blends in town</p>
+            <button class="order-btn" onclick="scrollToMenu()">Order Online</button>
+        </div>
+    </section>
+
+    <!-- Menu Section -->
+    <section id="menu" class="menu">
+        <div class="container">
+            <h2>Our Menu</h2>
+            <div class="menu-grid">
+                <div class="menu-item">
+                    <img src="https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=200&h=200&fit=crop" alt="Espresso">
+                    <h3>Espresso</h3>
+                    <p>Strong and rich coffee shot</p>
+                    <div class="price">R25.00</div>
+                    <button class="add-to-cart" onclick="addToCart('Espresso', 25)">Add to Cart</button>
+                </div>
+                <div class="menu-item">
+                    <img src="https://images.unsplash.com/photo-1561047029-3000c68339ca?w=200&h=200&fit=crop" alt="Cappuccino">
+                    <h3>Cappuccino</h3>
+                    <p>Espresso with steamed milk foam</p>
+                    <div class="price">R32.00</div>
+                    <button class="add-to-cart" onclick="addToCart('Cappuccino', 32)">Add to Cart</button>
+                </div>
+                <div class="menu-item">
+                    <img src="https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=200&h=200&fit=crop" alt="Latte">
+                    <h3>Latte</h3>
+                    <p>Espresso with steamed milk</p>
+                    <div class="price">R35.00</div>
+                    <button class="add-to-cart" onclick="addToCart('Latte', 35)">Add to Cart</button>
+                </div>
+                <div class="menu-item">
+                    <img src="https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=200&h=200&fit=crop" alt="Mocha">
+                    <h3>Mocha</h3>
+                    <p>Chocolate-flavored coffee</p>
+                    <div class="price">R38.00</div>
+                    <button class="add-to-cart" onclick="addToCart('Mocha', 38)">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Shopping Cart -->
+    <div class="cart-sidebar" id="cartSidebar">
+        <div class="cart-header">
+            <h3>Your Order</h3>
+            <button class="close-cart" onclick="closeCart()">×</button>
+        </div>
+        <div class="cart-items" id="cartItems">
+            <!-- Cart items will be added here -->
+        </div>
+        <div class="cart-total">
+            Total: R<span id="cartTotal">0.00</span>
+        </div>
+        <button class="checkout-btn" onclick="checkout()">Proceed to Checkout</button>
+    </div>
+
+    <!-- Cart Icon -->
+    <div class="cart-icon" onclick="toggleCart()">
+        <i class="fas fa-shopping-cart"></i>
+        <span class="cart-count" id="cartCount">0</span>
+    </div>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Caffex</h2>
+            <p>We are passionate about serving the highest quality coffee while providing exceptional customer service. Our baristas are trained to craft the perfect cup every time.</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <div class="contact-info">
+                <p><i class="fas fa-map-marker-alt"></i> 123 Coffee Street, Cape Town</p>
+                <p><i class="fas fa-phone"></i> +27 21 123 4567</p>
+                <p><i class="fas fa-envelope"></i> info@caffex.co.za</p>
+            </div>
+        </div>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+</html>
