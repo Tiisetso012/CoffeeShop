@@ -1,62 +1,41 @@
-# Caffex Coffee Shop Website
+# ☕ Caffex Coffee Shop Website
 
 A full-stack web application for a coffee shop enabling online orders and staff management.
 
-## Features
+## 🚀 Features
 
 **Customer Side:**
 - Browse menu & place orders online
-- Apply discount codes
+- Real-time shopping cart
 - Responsive design for all devices
+- Order summary and checkout
 
 **Staff Side:**
-- Secure login system
-- Manage customer orders
-- Track inventory
+- Secure login system (ready for integration)
+- Order management dashboard
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- **Frontend:** React, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** Ready for Node.js/Express integration
+- **Design:** Modern, responsive UI
 - **Version Control:** Git
 
-## Installation
+## 🌐 Live Demo
+[https://tiisetso012.github.io/CoffeeShop/](https://tiisetso012.github.io/CoffeeShop/)
 
-```bash
-git clone https://github.com/Tilsetso012/CoffeeShop
-cd CoffeeShop
-npm install# Caffex Coffee Shop Website
+## 🎯 Features Demonstrated
 
-A full-stack web application for a coffee shop enabling online orders and staff management.
+- Dynamic shopping cart functionality
+- Responsive web design
+- Modern UI/UX principles
+- JavaScript DOM manipulation
+- Local state management
 
-## Features
+## 🔧 Future Enhancements
 
-**Customer Side:**
-- Browse menu & place orders online
-- Apply discount codes
-- Responsive design for all devices
-
-**Staff Side:**
-- Secure login system
-- Manage customer orders
-- Track inventory
-
-## Tech Stack
-
-- **Frontend:** React, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT
-- **Version Control:** Git
-
-## Installation
-
-```bash
-git clone https://github.com/Tilsetso012/CoffeeShop
-cd CoffeeShop
-npm install
-npm start
-
-npm start
+- Backend API integration
+- User authentication
+- Database integration
+- Payment processing
+- Admin dashboard

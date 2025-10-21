@@ -10,7 +10,6 @@ body {
     color: #333;
 }
 
-/* Navigation */
 .navbar {
     background: #2c1810;
     padding: 1rem 0;
@@ -58,7 +57,6 @@ body {
     font-weight: bold;
 }
 
-/* Hero Section */
 .hero {
     background: linear-gradient(rgba(44, 24, 16, 0.7), rgba(44, 24, 16, 0.7)),
                 url('https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=1200&h=600&fit=crop');
@@ -99,7 +97,6 @@ body {
     background: #c1915e;
 }
 
-/* Menu Section */
 .menu {
     padding: 5rem 0;
     background: #f8f8f8;
@@ -177,7 +174,6 @@ body {
     background: #d4a574;
 }
 
-/* Cart Sidebar */
 .cart-sidebar {
     position: fixed;
     right: -400px;
@@ -237,7 +233,6 @@ body {
     cursor: pointer;
 }
 
-/* Cart Icon */
 .cart-icon {
     position: fixed;
     bottom: 2rem;
@@ -263,7 +258,6 @@ body {
     font-weight: bold;
 }
 
-/* About & Contact Sections */
 .about, .contact {
     padding: 4rem 0;
     text-align: center;
@@ -279,7 +273,6 @@ body {
     margin-right: 0.5rem;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
     .nav-menu {
         display: none;

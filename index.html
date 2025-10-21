@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-    <!-- Navigation -->
     <nav class="navbar">
         <div class="nav-container">
             <div class="logo">
@@ -24,7 +23,6 @@
         </div>
     </nav>
 
-    <!-- Hero Section -->
     <section id="home" class="hero">
         <div class="hero-content">
             <h1>Welcome to Caffex Coffee</h1>
@@ -33,7 +31,6 @@
         </div>
     </section>
 
-    <!-- Menu Section -->
     <section id="menu" class="menu">
         <div class="container">
             <h2>Our Menu</h2>
@@ -70,28 +67,23 @@
         </div>
     </section>
 
-    <!-- Shopping Cart -->
     <div class="cart-sidebar" id="cartSidebar">
         <div class="cart-header">
             <h3>Your Order</h3>
             <button class="close-cart" onclick="closeCart()">×</button>
         </div>
-        <div class="cart-items" id="cartItems">
-            <!-- Cart items will be added here -->
-        </div>
+        <div class="cart-items" id="cartItems"></div>
         <div class="cart-total">
             Total: R<span id="cartTotal">0.00</span>
         </div>
         <button class="checkout-btn" onclick="checkout()">Proceed to Checkout</button>
     </div>
 
-    <!-- Cart Icon -->
     <div class="cart-icon" onclick="toggleCart()">
         <i class="fas fa-shopping-cart"></i>
         <span class="cart-count" id="cartCount">0</span>
     </div>
 
-    <!-- About Section -->
     <section id="about" class="about">
         <div class="container">
             <h2>About Caffex</h2>
@@ -99,7 +91,6 @@
         </div>
     </section>
 
-    <!-- Contact Section -->
     <section id="contact" class="contact">
         <div class="container">
             <h2>Contact Us</h2>

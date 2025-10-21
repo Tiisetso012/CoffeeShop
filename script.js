@@ -27,7 +27,6 @@ function updateCart() {
     const cartTotal = document.getElementById('cartTotal');
     const cartCount = document.getElementById('cartCount');
     
-    // Update cart items
     cartItems.innerHTML = '';
     total = 0;
     
@@ -48,7 +47,6 @@ function updateCart() {
         cartItems.appendChild(cartItem);
     });
     
-    // Update totals
     cartTotal.textContent = total.toFixed(2);
     cartCount.textContent = cart.reduce((sum, item) => sum + item.quantity, 0);
 }
@@ -73,7 +71,6 @@ function checkout() {
     
     alert(`Order Summary:\n\n${orderSummary}\n\nTotal: R${total.toFixed(2)}\n\nThank you for your order! Our staff will prepare it shortly.`);
     
-    // Clear cart
     cart = [];
     updateCart();
     closeCart();
@@ -100,7 +97,6 @@ function showNotification(message) {
     }, 3000);
 }
 
-// Close cart when clicking outside
 document.addEventListener('click', (e) => {
     const cartSidebar = document.getElementById('cartSidebar');
     const cartIcon = document.querySelector('.cart-icon');
