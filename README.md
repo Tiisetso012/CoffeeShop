@@ -1,8 +1,8 @@
-# ☕ Caffex Coffee Shop Website
+# Caffex Coffee Shop Website
 
 A full-stack web application for a coffee shop enabling online orders and staff management.
 
-## 🚀 Features
+## Features
 
 **Customer Side:**
 - Browse menu & place orders online
@@ -14,7 +14,7 @@ A full-stack web application for a coffee shop enabling online orders and staff 
 - Manage customer orders
 - Track inventory
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React, HTML5, CSS3, JavaScript
 - **Backend:** Node.js, Express.js
@@ -22,7 +22,7 @@ A full-stack web application for a coffee shop enabling online orders and staff 
 - **Authentication:** JWT
 - **Version Control:** Git
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/Tilsetso012/CoffeeShop
