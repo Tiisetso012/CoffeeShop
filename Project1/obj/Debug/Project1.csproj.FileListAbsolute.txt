@@ -106,3 +106,23 @@ C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.csp
 C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
 C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.exe
 C:\Users\tiise\Desktop\3rd Year\CafeX CoffeeShop\Project1\obj\Debug\Project1.pdb
+C:\Users\tiise\Desktop\CoffeeShop\Project1\bin\Debug\BeelteCafDB.mdf
+C:\Users\tiise\Desktop\CoffeeShop\Project1\bin\Debug\BeelteCafDB_log.ldf
+C:\Users\tiise\Desktop\CoffeeShop\Project1\bin\Debug\Project1.exe.config
+C:\Users\tiise\Desktop\CoffeeShop\Project1\bin\Debug\Project1.exe
+C:\Users\tiise\Desktop\CoffeeShop\Project1\bin\Debug\Project1.pdb
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.Cart.resources
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.Customer.resources
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.Drinks.resources
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.Food.resources
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.Home.resources
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.Receipt.resources
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.Staff.resources
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.Stock.resources
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.exe
+C:\Users\tiise\Desktop\CoffeeShop\Project1\obj\Debug\Project1.pdb
